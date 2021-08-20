@@ -3,7 +3,7 @@
 /* Text inside these asterisks and slashes are comments for human */
 
   a {
-    color: black;
+    color: #3498DB ;
     /* set the text color to blue here */
     text-decoration: none; 
     
@@ -11,7 +11,7 @@
   }
 
   a:hover {
-    color: red;
+    color: #2ECC71;
     /* set the text color to red here */
     text-decoration: none;
     
@@ -23,8 +23,8 @@
     /* set the text color to black here */
     /* set the font here */
     /* set the text alignment here */
-    background-color: white ;
-    color: #1ABC9C;
+    background-color: #FCF3CF ;
+    color: #0B5345;
     font=family: Lucida Console;
     text-align: center;
    }
@@ -42,7 +42,7 @@
   h2 {
     /* set the text color of to #075AAB here */
     /* set both the bottom margin and top margin to 2.5rem here */
-    color: #1ABC9C;
+    color: #0B5345;
     margin-bottom: 2.5rem;
     margin-top: 2.5rem;
    }
