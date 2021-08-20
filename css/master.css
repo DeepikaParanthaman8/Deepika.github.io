@@ -3,7 +3,7 @@
 /* Text inside these asterisks and slashes are comments for human */
 
   a {
-    color: blue;
+    color: black;
     /* set the text color to blue here */
     text-decoration: none; /* This means we do not want hyperlinks to be underlined */
   }
@@ -19,9 +19,9 @@
     /* set the text color to black here */
     /* set the font here */
     /* set the text alignment here */
-    background-color: #D5F5E3 ;
-    color: black;
-    font=family: Arial, Helvetica, sans-serif;
+    background-color: white ;
+    color: #1ABC9C;
+    font=family: Lucida Console;
     text-align: center;
    }
 
