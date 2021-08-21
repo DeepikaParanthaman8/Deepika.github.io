@@ -1,7 +1,13 @@
 /* Cascading stylesheet for the website */
 
 /* Text inside these asterisks and slashes are comments for human */
-
+html{
+  background: url(images/back.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
   a {
     color: #3498DB ;
     /* set the text color to blue here */
@@ -23,11 +29,6 @@
     /* set the text color to black here */
     /* set the font here */
     /* set the text alignment here */
-     background: url(images/back.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
     color: black;
     font-family: Lucida Console, Courier New, monospace;
     text-align: center;
