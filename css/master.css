@@ -23,7 +23,11 @@
     /* set the text color to black here */
     /* set the font here */
     /* set the text alignment here */
-    background-image: url("back.jpg");
+     background: url(images/back.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
     color: black;
     font=family: Lucida Console, Courier New, monospace;
     text-align: center;
