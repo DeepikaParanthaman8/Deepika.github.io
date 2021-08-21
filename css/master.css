@@ -23,9 +23,6 @@
     /* set the text color to black here */
     /* set the font here */
     /* set the text alignment here */
-    background-image: url("banner.gif");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
     background-color: #e6ffff;
     color: black;
     font-family: Lucida Console, Courier New, monospace;
