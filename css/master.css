@@ -7,7 +7,7 @@
     /* set the text color to blue here */
     text-decoration: none; 
     
-    font=family: Lucida Console;/* This means we do not want hyperlinks to be underlined */
+    font-family: Lucida Console, Courier New, monospace;/* This means we do not want hyperlinks to be underlined */
   }
 
   a:hover {
@@ -15,7 +15,7 @@
     /* set the text color to red here */
     text-decoration: none;
     
-    font=family: Lucida Console;/* This means we do not want hyperlinks to be underlined */
+    font-family: Lucida Console, Courier New, monospace;/* This means we do not want hyperlinks to be underlined */
   }
 
   body {
@@ -29,7 +29,7 @@
   -o-background-size: cover;
   background-size: cover;
     color: black;
-    font=family: Lucida Console, Courier New, monospace;
+    font-family: Lucida Console, Courier New, monospace;
     text-align: center;
    }
 
