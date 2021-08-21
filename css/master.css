@@ -24,8 +24,8 @@
     /* set the font here */
     /* set the text alignment here */
     background-color: #91D8F5 ;
-    color: #0B5345;
-    font=family: Lucida Console;
+    color: black;
+    font=family: Lucida Console, Courier New, monospace;
     text-align: center;
    }
 
